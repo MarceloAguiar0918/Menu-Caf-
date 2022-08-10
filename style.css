@@ -15,7 +15,7 @@ ul {
   list-style: none;
 }
 
-/*fonts*/
+/*FONTS*/
 h1, h2, h3, .price {
   font-family: 'Roboto Serif', serif;
   text-transform: uppercase;
@@ -57,7 +57,7 @@ color: rgba(0, 0, 0, 0.7);
 
 /*SECTION*/
 section {
-  max-width:455px;
+  max-width:464px;
   border: 9px solid   rgb(56, 32, 4);
   border-radius: 9px;
   margin: 0 auto;
