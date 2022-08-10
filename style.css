@@ -57,10 +57,10 @@ color: rgba(0, 0, 0, 0.7);
 
 /*SECTION*/
 section {
-  max-width: 300px;
-  border: 1px solid   rgb(56, 32, 4);
+  max-width:455px;
+  border: 9px solid   rgb(56, 32, 4);
+  border-radius: 9px;
   margin: 0 auto;
-  
 }
 
 section {
